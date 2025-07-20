@@ -1,1 +1,11 @@
-Hier is de bijgewerkte AdGuard-wittelijst voor Nederlandse banken, inclusief relevante neobanks en de recente naamswijziging van De Volksbank naar ASN Bank per 1 juli 2025:
+# AdGuard Whitelist – Nederlandse Banken 🇳🇱
+
+Dit project bevat een actuele **wittelijst voor AdGuard** met alle bekende banken in Nederland, inclusief belangrijke neobanken zoals Bunq, N26 en Revolut. Deze lijst zorgt ervoor dat bankverkeer niet per ongeluk wordt geblokkeerd door AdGuard.
+
+## 📥 Direct gebruiken in AdGuard
+
+1. Open AdGuard en ga naar **Filters**.
+
+2. Kies **Filter toevoegen via URL**.
+
+3. Plak de onderstaande URL:
