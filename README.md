@@ -8,4 +8,4 @@ Dit project bevat een actuele **wittelijst voor AdGuard** met alle bekende banke
 
 2. Kies **Filter toevoegen via URL**.
 
-3. Plak de onderstaande URL:
+3. Plak de onderstaande URL: https://raw.githubusercontent.com/hack2881/adguard-whitelist-nederlandse-banken/refs/heads/whitelist-nederlandse-banken.txt/whitelist-nederlandse-banken.txt
